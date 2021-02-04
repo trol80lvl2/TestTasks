@@ -1,0 +1,140 @@
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\appsettings.json
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.exe
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.deps.json
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.runtimeconfig.json
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.runtimeconfig.dev.json
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.pdb
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Castle.Core.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.csprojAssemblyReference.cache
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.AssemblyInfoInputs.cache
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.AssemblyInfo.cs
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.csproj.CoreCompileInputs.cache
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.MvcApplicationPartsAssemblyInfo.cache
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\staticwebassets\WebApiTestTask.StaticWebAssets.Manifest.cache
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\staticwebassets\WebApiTestTask.StaticWebAssets.xml
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiTestTask.styles.css
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.RazorTargetAssemblyInfo.cache
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.csproj.CopyComplete
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.pdb
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.genruntimeconfig.cache
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Visual Studio\testTask\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.exe
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.deps.json
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.runtimeconfig.json
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.runtimeconfig.dev.json
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\WebApiTestTask.pdb
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.csprojAssemblyReference.cache
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.AssemblyInfo.cs
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.csproj.CopyComplete
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\staticwebassets\WebApiTestTask.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\staticwebassets\WebApiTestTask.StaticWebAssets.xml
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.dll
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.pdb
+C:\Users\1\Desktop\WebApiTestTask\WebApiTestTask\obj\Debug\netcoreapp3.1\WebApiTestTask.genruntimeconfig.cache

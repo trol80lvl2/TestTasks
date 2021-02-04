@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feeds>
+  <Feed Name="articles" Url="https://www.liga.net/news/articles/rss.xml" />
+  <Feed Name="blog" Url="https://www.liga.net/rss/blog.xml" />
+  <Feed Name="blog" Url="https://www.liga.net/tech/vlog/rss.xml" />
+  <Feed Name="crypto" Url="https://www.liga.net/fin/crypto/rss.xml" />
+  <Feed Name="interview" Url="https://www.liga.net/news/interview/rss.xml" />
+  <Feed Name="news" Url="https://www.liga.net/news/rss.xml" />
+  <Feed Name="opinion" Url="https://www.liga.net/opinion/rss.xml" />
+</Feeds>

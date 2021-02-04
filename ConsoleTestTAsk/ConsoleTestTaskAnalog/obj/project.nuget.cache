@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W1rdJE+M2P0nV1THF0K1SqGMna1wOrf5bnnisnalWZc8W/YL1LEze5zCs9YpEeQTCTDXFO3p/8DHLODRT1v6JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ma1x\\Desktop\\ConsoleTestTAsk\\ConsoleTestTaskAnalog\\ConsoleTestTaskAnalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ma1x\\.nuget\\packages\\system.servicemodel.syndication\\5.0.0\\system.servicemodel.syndication.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

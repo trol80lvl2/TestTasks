@@ -1,0 +1,45 @@
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.exe
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.deps.json
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.runtimeconfig.json
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.runtimeconfig.dev.json
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.dll
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.pdb
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csprojAssemblyReference.cache
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.AssemblyInfoInputs.cache
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.AssemblyInfo.cs
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csproj.CoreCompileInputs.cache
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csproj.CopyComplete
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.dll
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.pdb
+F:\Visual Studio\testTask\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.genruntimeconfig.cache
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.exe
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.deps.json
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.runtimeconfig.json
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.runtimeconfig.dev.json
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.dll
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.pdb
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.AssemblyInfo.cs
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csproj.CopyComplete
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.dll
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.pdb
+C:\Users\1\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.genruntimeconfig.cache
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.exe
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.deps.json
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.runtimeconfig.json
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.runtimeconfig.dev.json
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.dll
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.pdb
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\bin\Debug\netcoreapp3.1\System.ServiceModel.Syndication.dll
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csprojAssemblyReference.cache
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.AssemblyInfoInputs.cache
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.AssemblyInfo.cs
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csproj.CoreCompileInputs.cache
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.csproj.CopyComplete
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.dll
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.pdb
+C:\Users\Ma1x\Desktop\ConsoleTestTAsk\ConsoleTestTaskAnalog\obj\Debug\netcoreapp3.1\ConsoleTestTaskAnalog.genruntimeconfig.cache
